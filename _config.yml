@@ -4,9 +4,9 @@
 # Site settings
 title: Boost & Vision
 description: |
-  Visionary Business Development Agency
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+  Innovative Business Growth Agency
+owner: Boost & Vision
+first_published: 2019
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
