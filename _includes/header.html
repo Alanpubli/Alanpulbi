@@ -11,12 +11,8 @@
             <li><a href="contact.html">Contact</a></li>
             <li><a href="https://medium.com/@alandavid_1750" target="_blank">Blog</a></li>
 
-            {% for my_page in site.pages %}
-            {% if my_page.title %}
-            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-            {% endif %}
-            {% endfor %}
-            
+          
+
           </ul>
         </div>
       </li>
