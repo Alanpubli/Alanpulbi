@@ -1,7 +1,4 @@
-# Welcome to Jekyll!
-#
 
-# Site settings
 title: Boost & Vision
 description: |
   Innovative Business Growth Agency
@@ -9,11 +6,11 @@ owner: Boost & Vision
 first_published: 2019
 email: evermake.io@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://boost.vision"
 social:
-  twitter: https://twitter.com/<username>
+  twitter: https://twitter.com/publicateur
 
-  linkedin-square: https://linkedin.com/in/<username>
+  linkedin-square: https://www.linkedin.com/in/alanboost
 
 
   #email: /contact/
