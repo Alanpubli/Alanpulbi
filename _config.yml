@@ -8,9 +8,9 @@ email: evermake.io@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://boost.vision"
 social:
-  twitter: https://twitter.com/publicateur
+  twitter: target="_blank" https://twitter.com/publicateur
 
-  linkedin-square: https://www.linkedin.com/in/alanboost
+  linkedin-square: target="_blank" https://www.linkedin.com/in/alanboost
 
 
   #email: /contact/
